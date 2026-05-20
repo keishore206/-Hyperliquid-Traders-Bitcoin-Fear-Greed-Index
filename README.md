@@ -150,10 +150,12 @@ jupyter notebook hyperliquid_sentiment_analysis.ipynb
 
 ## 📦 Datasets
 
-| File | Description | Rows |
-|---|---|---|
-| `historical_data.csv` | Hyperliquid trade-level data (accounts, PnL, margin type, timestamps) | 211,224 |
-| `fear_greed_index.csv` | Daily Bitcoin Fear & Greed Index scores (0–100) with classification labels | ~730 |
+The datasets are included in this repository and also available via Google Drive:
+
+| File | Description | Rows | Download |
+|---|---|---|---|
+| `historical_data.csv` | Hyperliquid trade-level data (accounts, PnL, margin type, timestamps) | 211,224 | [📥 Download](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing) |
+| `fear_greed_index.csv` | Daily Bitcoin Fear & Greed Index scores (0–100) with classification labels | ~730 | [📥 Download](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing) |
 
 ---
 
